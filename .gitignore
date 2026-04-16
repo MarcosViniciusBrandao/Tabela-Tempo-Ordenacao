@@ -1,0 +1,6 @@
+# Arquivos compilados
+*.exe
+*.o
+
+# Configurações de layout do Dev-C++
+*.layout
