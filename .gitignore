@@ -4,3 +4,4 @@
 
 # Configurações de layout do Dev-C++
 *.layout
+Makefile.win
